@@ -1,3 +1,5 @@
 If you only want to group by technology but still retrieve all columns, you can use window functions or DISTINCT ON (PostgreSQL-specific) depending on your use case.
 
 In SQL, you can group data without applying any aggregation by simply using the GROUP BY clause. However, it’s important to note that all non-aggregated columns in the SELECT clause must be included in the GROUP BY clause.
+
+lakesh kumar naraharasetti

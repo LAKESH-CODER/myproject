@@ -51,5 +51,6 @@ with DAG(
         cluster_name=CLUSTERNAME,
         region=REGION,
         )
+    print("task3 completed")
 
 pyspark_task>>delete_cluster

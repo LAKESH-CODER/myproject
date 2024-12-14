@@ -12,6 +12,7 @@ try:
                 k=line.count(word)
                 l.append(word)
                 print(word,k)
+                print("lakesh")
 
 
 except:
